@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "texto": "Lembrancinha",
+        "descricao": "Preparar lembrancinhas para os convidados",
+        "categoria": "Preparativos",
+        "completa": false
+    },
+    {
+        "id": 2,
+        "texto": "Cx Pastor",
+        "descricao": "Preparar caixa para o pastor",
+        "categoria": "Presentes",
+        "completa": false
+    },
+    {
+        "id": 3,
+        "texto": "Cx Mãe",
+        "descricao": "Preparar caixa para a mãe",
+        "categoria": "Presentes",
+        "completa": false
+    },
+    {
+        "id": 4,
+        "texto": "Fazer votos",
+        "descricao": "Escrever os votos para a cerimônia",
+        "categoria": "Cerimônia",
+        "completa": false
+    },
+    {
+        "id": 5,
+        "texto": "Organizar mesas",
+        "descricao": "Definir organização das mesas para os convidados",
+        "categoria": "Organização",
+        "completa": false
+    },
+    {
+        "id": 6,
+        "texto": "Ver cooler para água",
+        "descricao": "Conversar com Eduardo sobre o cooler para água",
+        "categoria": "Bebidas",
+        "completa": false
+    },
+    {
+        "id": 7,
+        "texto": "Comprar bebidas",
+        "descricao": "Adquirir as bebidas para o evento",
+        "categoria": "Compras",
+        "completa": false
+    },
+    {
+        "id": 8,
+        "texto": "Comprar torradas",
+        "descricao": "Comprar torradas para o evento",
+        "categoria": "Compras",
+        "completa": false
+    },
+    {
+        "id": 9,
+        "texto": "Verificar carrinho",
+        "descricao": "Ver tamanho do carrinho no Carioca e definir quando vai pegar",
+        "categoria": "Logística",
+        "completa": false
+    }
+]
